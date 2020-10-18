@@ -10,4 +10,5 @@ ReactDOM.render(
   </React.Fragment>,
   document.getElementById('root')
 );
+
 serviceWorker.unregister();
