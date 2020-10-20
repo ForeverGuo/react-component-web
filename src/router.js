@@ -1,5 +1,6 @@
-import Home from  "@/page/home/Home"
+import Home from  "@/page/home/Home";
 import Swiper from "@/page/swiper/Swiper";
+import Drag from "@/page/drag/Drag";
 const routes = [
   {
     path: "/home",
@@ -10,8 +11,8 @@ const routes = [
     component: Swiper
   },
   {
-    path: "/home3",
-    component: Home
+    path: "/drag",
+    component: Drag
   },
   {
     path: "/home4",

@@ -38,7 +38,7 @@ const app = () => {
             <Link to="/swiper">Swiper</Link>
           </Menu.Item>
           <Menu.Item key="3" icon={<UploadOutlined />}>
-            <Link to="/home3">Home3</Link>
+            <Link to="/drag">Drag</Link>
           </Menu.Item>
           <Menu.Item key="4" icon={<UserOutlined />}>
             <Link to="/home4">Home4</Link>

@@ -14,11 +14,13 @@
   .slider-item {
     display: inline-block;
     height: auto;
- 
+    background-color: #868686;
     &>img {
       display: block;
       height: auto;
-      width: 100%;
+      width: auto;
+      margin: 0 auto;
+      height: 380px;
     }
   }
  
